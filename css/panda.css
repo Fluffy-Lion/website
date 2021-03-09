@@ -1,0 +1,12 @@
+#pandaPics{
+    border: solid purple 4px;
+    width: 100%; 
+    display: flex;
+    justify-content: space-evenly; 
+    align-items: center;  
+}
+
+img {
+    width: 30%;
+    height: 100%;
+}
